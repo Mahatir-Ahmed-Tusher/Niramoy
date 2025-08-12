@@ -1,7 +1,8 @@
 
 # Niramoy (নিরাময়) - Your AI Health Assistant
 
-<img width="1895" height="893" alt="image" src="https://github.com/user-attachments/assets/6a10dd2e-2d1f-43bd-83d8-7e529ff78e34" />
+<img width="1916" height="865" alt="image" src="https://github.com/user-attachments/assets/7f44c0f8-71ec-4d50-a393-cd7e116a0a51" />
+
 
 <p align="center"><i>An intelligent, Bengali-first AI health assistant designed for community health workers.</i></p>
 
