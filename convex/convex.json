@@ -1,0 +1,11 @@
+{
+  "project": {
+    "name": "shasthokotha",
+    "schemaPath": "schema.ts"
+  },
+  "functions": {
+    "codegen": {
+      "enabled": true
+    }
+  }
+}
